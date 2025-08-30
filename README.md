@@ -1,5 +1,13 @@
 # Weather Data Analysis NYC Central Park (2016) with Stationary AR(p), MA(q), and ARMA(p,q) Models
 
+## 👨‍💻 Team Members
+- Meinisa
+- Maria Gresia Hutabarat
+- Josua Alfa Viando Panggabean
+- Putri Intan Kirani
+- Rizky Adrian Bennovry
+- Ibnu Farhan Al-Ghifari
+  
 ---
 
 ## 📱 **About the Project**
